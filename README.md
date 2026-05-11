@@ -17,19 +17,19 @@ Attrition by Gender
 Attrition by Salary Slab
 Attrition by Job Role
 Attrition by Years at Company
+
 🛠 Tools & Technologies
 Power BI
 Data Cleaning
 Data Visualization
 HR Analytics
-🎯 Objective
 
+
+🎯 Objective
 To identify key factors affecting employee attrition and provide actionable business insights through interactive dashboards.
 
 🚀 Learning Outcome
-
 This project enhanced my understanding of:
-
 HR Data Analysis
 Interactive Dashboard Building
 Business Intelligence Reporting
